@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "../styles/Home.css";
 import PostList from "../components/PostList.tsx";
-import { getPosts } from "../api/api";
+import { getPosts } from "../api/api.ts";
 
 const Home = () => {
     const [posts, setPosts] = useState([]);
