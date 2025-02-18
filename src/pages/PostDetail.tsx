@@ -13,7 +13,6 @@ const PostDetail = () => {
     const [loading, setLoading] = useState(true);
 
     const fetchPostDetails = async () => {
-
         try {
             const data = await getPostById(itemId);
             setPost(data);
@@ -33,7 +32,7 @@ const PostDetail = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
         fetchPostDetails();
-    }, [itemId]);
+    }, []);
 
     if (loading) {
         return (
