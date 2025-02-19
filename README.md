@@ -39,14 +39,14 @@ This project has been deployed on Vercel. You can access the live version here:
 ## Screenshots
 
 ### Home Page
-![Image](https://github.com/user-attachments/assets/8773f3c1-2263-4c37-ac7c-2105d9b72330)
+![Image](https://github.com/user-attachments/assets/98fa1bdc-478d-491e-8870-e5c423d8388c)
 
-![Image](https://github.com/user-attachments/assets/0666a95a-9349-4cfa-857d-d8bff01718b6)
+![Image](https://github.com/user-attachments/assets/03c0f548-c20a-402e-9b39-3af7c1f3a09c)
 
 ### Post Detail Page
-![Image](https://github.com/user-attachments/assets/563e8e0f-4b94-4d6e-8314-a472afb39eb2)
+![Image](https://github.com/user-attachments/assets/cfafe630-a591-44a4-bc91-62566fd3bb30)
 
-![Image](https://github.com/user-attachments/assets/ee42e341-1741-42cc-acd8-47a339ffd932)
+![Image](https://github.com/user-attachments/assets/690e1ee7-c62c-4119-8e0d-b90053b5a87e)
 
 ## Project Structure
 ```
