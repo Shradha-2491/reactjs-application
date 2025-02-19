@@ -54,10 +54,17 @@ root/
 |-- src/
 |   |-- components/
 |   |   |-- Navbar.js
-|   |   |-- PostCard.js
+|   |   |-- PostList.js
 |   |-- pages/
 |   |   |-- Home.js
-|   |   |-- PostDetails.js
+|   |   |-- PostDetail.js
+|   |-- styles/
+|   |   |-- Home.css
+|   |   |-- App.css
+|   |   |-- index.css
+|   |   |-- PostDetail.css
+|   |   |-- Navbar.css
+|   |   |-- PostList.js
 |   |-- App.js
 |   |-- index.js
 |-- public/
