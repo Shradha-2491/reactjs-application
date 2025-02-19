@@ -72,7 +72,7 @@ const PostList = ({ posts }) => {
                         onClick={() => handlePageChange("prev")}
                         disabled={currentPage === 1}
                     >
-                        Previous
+                        ← Previous
                     </button>
                     <span className="page-info">
                         Page {currentPage} of {totalPages}
@@ -82,7 +82,7 @@ const PostList = ({ posts }) => {
                         onClick={() => handlePageChange("next")}
                         disabled={currentPage === totalPages}
                     >
-                        Next
+                        Next →
                     </button>
                 </div>
             )}
