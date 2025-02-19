@@ -10,7 +10,7 @@ This React.js application fetches and displays data from a public API (JSONPlace
 - Search and filter functionality for quick access to relevant items.
 - Uses `useState` and `useEffect` for state management.
 - Styled for a modern and responsive UI.
-- Pagination or infinite scrolling can be implemented.
+- Pagination is implemented.
 
 ## Technologies Used
 - **React.js** (UI framework)
@@ -32,6 +32,26 @@ This React.js application fetches and displays data from a public API (JSONPlace
    npm start
    ```
 
+## Deployment
+This project has been deployed on Vercel. You can access the live version here:
+[Live Demo](https://reactjs-application-zeta.vercel.app/)
+
+## Screenshots
+
+### Home Page
+Web Page View:
+![Image](https://github.com/user-attachments/assets/8773f3c1-2263-4c37-ac7c-2105d9b72330)
+
+Mobile View:
+![Image](https://github.com/user-attachments/assets/0666a95a-9349-4cfa-857d-d8bff01718b6)
+
+### Post Detail Page
+Web Page View:
+![Image](https://github.com/user-attachments/assets/563e8e0f-4b94-4d6e-8314-a472afb39eb2)
+
+Mobile View:
+![Image](https://github.com/user-attachments/assets/ee42e341-1741-42cc-acd8-47a339ffd932)
+
 ## Project Structure
 ```
 root/
@@ -48,6 +68,5 @@ root/
 |-- package.json
 |-- README.md
 ```
-
 ## License
 This project is open-source and available under the MIT license.

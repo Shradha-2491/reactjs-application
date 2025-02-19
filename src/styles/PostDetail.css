@@ -181,4 +181,9 @@
     .post-details-right {
         max-width: 100%;
     }
+
+    .back-button {
+        padding: 8px 15px;
+        font-size: 12px;
+    }
 }
