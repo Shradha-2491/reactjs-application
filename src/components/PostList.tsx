@@ -26,7 +26,7 @@ const PostList = ({ posts }) => {
     }, [searchQuery]);
 
     const handlePageChange = (direction) => {
-        window.scrollTo(0, 0);
+        window.scrollTo(0, 400);
         setIsPageChanging(true);
         setTimeout(() => {
             setIsPageChanging(false);
