@@ -5,10 +5,10 @@ const Navbar = () => {
 
     return (
         <>
-            <header class="navbar">
-                <div class="navbar-container">
-                    <div class="brand">
-                        <a href="/" class="navbar-logo">ContentSphere</a>
+            <header className="navbar">
+                <div className="navbar-container">
+                    <div className="brand">
+                        <a href="/" className="navbar-logo">ContentSphere</a>
                     </div>
                 </div>
             </header>
