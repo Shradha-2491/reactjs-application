@@ -17,7 +17,7 @@ const Navbar = () => {
                 </div>
                 {isItemPage && (
                     <button className="back-button" onClick={() => navigate("/")}>
-                        Back to Posts
+                        Back
                     </button>
                 )}
 
