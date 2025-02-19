@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shradha-2491.github.io/reactjs-application/static/css/main.ade10b32.css",
+    "main.js": "/Shradha-2491.github.io/reactjs-application/static/js/main.6e7e20eb.js",
+    "static/js/488.d7ed0c94.chunk.js": "/Shradha-2491.github.io/reactjs-application/static/js/488.d7ed0c94.chunk.js",
+    "index.html": "/Shradha-2491.github.io/reactjs-application/index.html",
+    "main.ade10b32.css.map": "/Shradha-2491.github.io/reactjs-application/static/css/main.ade10b32.css.map",
+    "main.6e7e20eb.js.map": "/Shradha-2491.github.io/reactjs-application/static/js/main.6e7e20eb.js.map",
+    "488.d7ed0c94.chunk.js.map": "/Shradha-2491.github.io/reactjs-application/static/js/488.d7ed0c94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ade10b32.css",
+    "static/js/main.6e7e20eb.js"
+  ]
+}
