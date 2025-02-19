@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { Loader, User, MessageSquare } from "lucide-react";
 import "../styles/PostDetail.css";
 import { getCommentsByPostId, getPostById, getUserById } from "../api/api.ts";
 
 const PostDetail = () => {
     const { itemId } = useParams();
-    const navigate = useNavigate();
+
     const [post, setPost] = useState(null);
     const [author, setAuthor] = useState(null);
     const [comments, setComments] = useState([]);
@@ -63,7 +63,7 @@ const PostDetail = () => {
                         </div>
                     </div>
                 )}
-                <button className="back-button" onClick={() => navigate("/")}>Back to Posts</button>
+
             </div>
 
             <div className="post-details-right">
