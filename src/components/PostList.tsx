@@ -26,9 +26,9 @@ const PostList = ({ posts }) => {
     }, [searchQuery]);
 
     const handlePageChange = (direction) => {
-        window.scrollTo({ top: 350, behavior: "smooth" });
         setIsPageChanging(true);
         setTimeout(() => {
+            window.scrollTo({ top: 350, behavior: "smooth" });
             setIsPageChanging(false);
         }, 500);
 

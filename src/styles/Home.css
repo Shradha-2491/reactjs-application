@@ -34,7 +34,7 @@ body {
     font-size: 3rem;
     font-weight: bold;
     margin-bottom: 10px;
-    background: linear-gradient(90deg, #4facfe, #00f2fe);
+    background: linear-gradient(90deg, #ffcc00, #ff8800);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     opacity: 0;
