@@ -22,6 +22,7 @@ This React.js application fetches and displays data from a public API (JSONPlace
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shradha-2491/reactjs-application.git
+   cd reactjs-application
    ```
 2. Install dependencies:
    ```bash
