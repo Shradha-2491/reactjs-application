@@ -29,6 +29,8 @@ const PostList = ({ posts }) => {
         setIsPageChanging(true);
         setTimeout(() => {
             window.scrollTo({ top: 350, behavior: "smooth" });
+        }, 100);
+        setTimeout(() => {
             setIsPageChanging(false);
         }, 500);
 
