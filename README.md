@@ -65,7 +65,7 @@ root/
 |   |   |-- index.css
 |   |   |-- PostDetail.css
 |   |   |-- Navbar.css
-|   |   |-- PostList.js
+|   |   |-- PostList.css
 |   |-- App.js
 |   |-- index.js
 |-- public/
