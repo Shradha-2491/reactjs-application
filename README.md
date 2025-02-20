@@ -54,11 +54,11 @@ This project has been deployed on Vercel. You can access the live version here:
 root/
 |-- src/
 |   |-- components/
-|   |   |-- Navbar.js
-|   |   |-- PostList.js
+|   |   |-- Navbar.tsx
+|   |   |-- PostList.tsx
 |   |-- pages/
-|   |   |-- Home.js
-|   |   |-- PostDetail.js
+|   |   |-- Home.tsx
+|   |   |-- PostDetail.tsx
 |   |-- styles/
 |   |   |-- Home.css
 |   |   |-- App.css
